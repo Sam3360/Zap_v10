@@ -1,7 +1,7 @@
 # [Zap](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [v10]
 
 > Merged to OG repo 
->> Merge Status: PENDING...⚠️
+>> Merge Status: COMPLETE ✅
 
 ![Zap Banner](ZapBanner.png)
 
